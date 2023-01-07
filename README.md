@@ -56,5 +56,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [your-website.com](https://{your-web-site-link})
 - GitHub [@powei55](https://{github.com/powei55})
-- Twitter [@powei55](https://{twitter.com/@powei55})
+- Twitter [@powei55](https://{twitter.com/powei55})
 # my-team-page-master
