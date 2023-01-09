@@ -10,7 +10,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{devchallenges.io/solutions/2GZWrvg6cvymQpjG5NdG}">
       Solution
     </a>
     <span> | </span>
@@ -33,9 +33,8 @@
 
 ## Overview
 
-![WM-Screenshots-20230109052027](https://user-images.githubusercontent.com/94329479/211240676-619d0b7b-2fc5-4332-9b58-1deda2d902aa.png)
-
 ![WM-Screenshots-20230107163212](https://user-images.githubusercontent.com/94329479/211159174-c348d6c6-8b1b-4d8a-b955-7f6e128dd867.png)
+
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
